@@ -11,6 +11,9 @@ You may follow the following as an example
 
 ## Reference
 [1] Brown T B, Mané D, Roy A, et al. Adversarial patch[J]. arXiv preprint arXiv:1712.09665, 2017
+
 [2] Karmon D, Zoran D, Goldberg Y. Lavan: Localized and visible adversarial noise[C]//International Conference on Machine Learning. PMLR, 2018: 2507-2515.
+
 [3] Hayes J. On visible adversarial perturbations & digital watermarking[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops. 2018: 1597-1604.
+
 [4] Naseer M, Khan S, Porikli F. Local gradients smoothing: Defense against localized adversarial attacks[C]//2019 IEEE Winter Conference on Applications of Computer Vision (WACV). IEEE, 2019: 1300-1307.
