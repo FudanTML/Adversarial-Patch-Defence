@@ -8,7 +8,7 @@ A majority of prior work has focused on attacking with and defending against eit
 
 ## Code
 You may follow the following as an example
-- https://github.com/Muzammal-Naseer/local_gradients_smoothing
+- [LGS](https://github.com/Muzammal-Naseer/local_gradients_smoothing)
 
 
 ## Reference
