@@ -4,7 +4,7 @@ Recent work by Brown et al.[1] and Karmon et al.[2] have studied - adversarial e
 
 
 ## Project Goals
--Adversarial Patch 
+- Adversarial Patch 
 
 ## Code
 
